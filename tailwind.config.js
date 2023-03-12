@@ -11,12 +11,13 @@ module.exports = {
 	theme: {
 		extend: {
 			colors: {
-				body: "#07070c",
-				navbar: "#0e0e14",
+				body: "#050E23",
+				navbar: "#0C1833",
 			},
 			fontFamily: {
 				inter: ["Inter"],
 				poppins: ["Poppins"],
+				monserrath: ["Monserrath"]
 			},
 		},
 	},
